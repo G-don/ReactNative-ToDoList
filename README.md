@@ -1,12 +1,13 @@
 # ReactNative-ToDoList
 
-![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/1.png)![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/2.png)
+![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/1.png)
+![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/2.png)
 
 
 
 
 ##Description
-
+This was my first experience using React Native technology, where I build a simple ToDo List app where we can save our goals. 
 
 
 ##Instructions
