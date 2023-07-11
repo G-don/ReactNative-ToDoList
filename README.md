@@ -7,16 +7,21 @@
 
 ##Description
 
-This was my first experience using React Native technology, where I build a simple ToDo List app where we can save our goals. 
-
+This is a simple ToDo List app built using React Native. It allows users to save their goals and manage their tasks easily.
 
 ##Instructions
 
-Tap on <Add new Goal> and then just enter the goal text, in order to save it press <Add goal>. When a goal is completed to remove the goal just double tap on it to remove it from the list. 
+1. Tap on the 'Add new goal' button to add a new goal.
+2. Enter the goal text in the input field and tap 'Add Goal' to save it.
+3. To delete a goal, double-tap on it.
 
 
 ##Features
-This is a simple app that allowed me to understand React Native, where we can save or delete goals. I will apply this knowledge to my drum machine project to make it an android and ios app. 
+
+- Add, save, and manage your goals.
+- Simple and intuitive user interface.
+- Double-tap to delete goals.
+- Works on both Android and iOS devices.
 
 
 ##Visuals
