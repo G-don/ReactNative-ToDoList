@@ -1,6 +1,6 @@
 # ReactNative-ToDoList
 
-![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/1.png)
+![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/1.jpeg)
 ![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/2.png)
 
 
