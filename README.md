@@ -4,6 +4,13 @@
 ![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/2.jpeg)
 ![image](https://github.com/G-don/ReactNative-ToDoList/blob/master/VISUALS/3.jpeg)
 
+##TechStack
+
+<p align="left">
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/react-original-wordmark.svg" alt="javascript" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+</p>
 
 ##Description
 
